@@ -11,7 +11,7 @@ Backend: PHP with centralized routing.
 Database: MariaDB.
 
 ## Project Structure
-
+```
 Shopping-Cart/
 ├── css/
 │   └── styles.css
@@ -24,7 +24,7 @@ Shopping-Cart/
 ├── data/
 │   └── schema.sql
 └── index.html
-
+```
 ## Current Features
 
 Search for products using keywords.
