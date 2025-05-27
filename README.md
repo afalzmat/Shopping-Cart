@@ -1,17 +1,16 @@
-Shopping Cart
+# Shopping Cart
 
 A responsive e-commerce interface with product search and display capabilities. This project is designed to streamline product catalog management while providing a solid foundation for future expansions.
 
-Technologies Used
+## Technologies Used
 
-Frontend: HTML, CSS, JavaScript
+Frontend: HTML, CSS, JavaScript.
 
-Backend: PHP
+Backend: PHP with centralized routing.
 
-Database: MariaDB
+Database: MariaDB.
 
-
-Project Structure
+## Project Structure
 
 Shopping-Cart/
 ├── css/
@@ -26,7 +25,7 @@ Shopping-Cart/
 │   └── schema.sql
 └── index.html
 
-Current Features
+## Current Features
 
 Search for products using keywords.
 
@@ -34,44 +33,31 @@ Filter products by categories.
 
 Display products in responsive design cards.
 
-
-In Progress
+## In Progress
 
 Shopping Cart: Add functionality to select products, manage them in a cart, and confirm purchases.
 
 Purchase Summary: Design a section to display the history of completed purchases.
 
-
-Installation
+## Installation
 
 1. Clone this repository:
 
 git clone <repository URL>
 
-
 2. Import the schema.sql file located in the data/ folder to your MariaDB server.
-
 
 3. Configure the database credentials in php/connection.php.
 
-
 4. Open index.html in your browser.
 
-
-
-Next Steps
+## Next Steps
 
 Implement an authentication system for registered users.
 
 Add support for multiple payment methods.
 
-
-Contributions
-
-If you wish to contribute to this project, feel free to fork it and submit a pull request with your improvements or suggestions.
-
-
 ---
 
-Developed by [Your Name].
+Developed by AFAlzMat.
 
