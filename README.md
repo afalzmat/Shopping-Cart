@@ -58,9 +58,30 @@ Implement an authentication system for registered users.
 Add support for multiple payment methods.
 
 ## Screenshots 
+
+Here are some screenshots:
+
+### Mobile View
+   
+![mv](/ss/mv1.png)
+
+![mv](/ss/mv2.png)
+
+![mv](/ss/mv3.png)
+
+![mv](/ss/mv4.png)
+
+
+### Desktop View
+
 ![dv](/ss/dv1.png)
 
-![dv](/ss/mv2.png)
+![dv](/ss/dv2.png)
+
+![dv](/ss/dv3.png)
+
+![dv](/ss/dv4.png)
+
 ---
 
 Developed by AFAlzMat.
