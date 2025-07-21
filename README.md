@@ -33,9 +33,6 @@ Filter products by categories.
 
 Display products in responsive design cards.
 
-![dv](/ss/dv1.png)
-![dv](/ss/dv2.png)
-
 ## In Progress
 
 Shopping Cart: Add functionality to select products, manage them in a cart, and confirm purchases.
@@ -60,6 +57,10 @@ Implement an authentication system for registered users.
 
 Add support for multiple payment methods.
 
+## Screenshots 
+![dv](/ss/dv1.png)
+
+![dv](/ss/mv2.png)
 ---
 
 Developed by AFAlzMat.
