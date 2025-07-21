@@ -10,6 +10,8 @@ Backend: PHP with centralized routing.
 
 Database: MariaDB.
 
+This project is developed primarily within Termux on an Android smartphone. This setup showcases a commitment to resourceful problem-solving and adaptability, demonstrating that robust development can be achieved even with non-traditional environments and limited access to conventional desktop resources.
+
 ## Project Structure
 ```
 Shopping-Cart/
