@@ -78,8 +78,6 @@ Here are some screenshots:
 
 ![dv](/ss/dv2.png)
 
-![dv](/ss/dv3.png)
-
 ![dv](/ss/dv4.png)
 
 ---
