@@ -10,6 +10,8 @@ Backend: PHP with centralized routing.
 
 Database: MariaDB.
 
+## Development Environment
+
 This project is developed primarily within Termux on an Android smartphone due to lack of access to a traditional PC, and, exploring mobile development workflows. This setup showcases a commitment to resourceful problem-solving and adaptability, demonstrating that robust development can be achieved even with non-traditional environments and limited access to conventional desktop resources.
 
 ## Project Structure
